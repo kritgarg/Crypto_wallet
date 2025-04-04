@@ -66,8 +66,6 @@ npm run dev
 
 ---
 
-## **📸 UI Preview**  
-*(Add a screenshot or video link here)*  
 
 ---
 
