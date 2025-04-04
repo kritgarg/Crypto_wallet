@@ -27,7 +27,7 @@ import {
 import { useWallet } from '@solana/wallet-adapter-react';
 
 import '@solana/wallet-adapter-react-ui/styles.css';
-import './app.css';
+// import './app.css';
 
 const network = 'devnet';
 const endpoint = clusterApiUrl(network);
